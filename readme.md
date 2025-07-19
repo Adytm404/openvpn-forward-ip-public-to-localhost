@@ -12,6 +12,7 @@
 ```bash
 ssh root@IP_VPS_KAMU
 ```
+disini saya pake vps dari nyanserver.com
 
 ### 2. Download OpenVPN Installer
 ```bash
