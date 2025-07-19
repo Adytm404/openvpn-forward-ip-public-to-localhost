@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠️ Cara Install OpenVPN di CentOS 7
+## 🛠️ Cara Install OpenVPN di Linux
 
 ### 1. Login ke VPS sebagai root (saya pake vps dari NyanServer.com)
 ```bash
