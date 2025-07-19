@@ -1,4 +1,4 @@
-# 📡 OpenVPN Server + Port Forwarding via iptables (CentOS 7)
+# 📡 OpenVPN Server + Port Forwarding via iptables
 
 ## 🌐 Syarat Minimal Server
 - VPS dengan **dedicated IP publik**
