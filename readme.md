@@ -1,7 +1,7 @@
 # 📡 OpenVPN Server + Port Forwarding via iptables
 
 ## 🌐 Syarat Minimal Server
-- VPS dengan **dedicated IP publik** (saya pake nyanserver.com)
+- VPS dengan **dedicated IP publik** (saya pake [nyanserver.com](https://nyanserver.com))
 - **Jangan** gunakan VPS NAT tanpa IP publik
 
 ---
