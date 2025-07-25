@@ -1,7 +1,7 @@
 # 📡 OpenVPN Server + Port Forwarding via iptables
 
 ## 🌐 Syarat Minimal Server
-- VPS dengan **dedicated IP publik**
+- VPS dengan **dedicated IP publik** (saya pake nyanserver.com)
 - **Jangan** gunakan VPS NAT tanpa IP publik
 
 ---
@@ -12,7 +12,7 @@
 ```bash
 ssh root@IP_VPS_KAMU
 ```
-disini saya pake vps dari nyanserver.com
+
 
 ### 2. Download OpenVPN Installer
 ```bash
